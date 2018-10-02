@@ -3,5 +3,5 @@
 ## Jerome=烧鸭粉
 ## Dustin=大马炒面
 ## Eric=
-## Yu=烧鸭面
+## Yu=
 ## Julius=
